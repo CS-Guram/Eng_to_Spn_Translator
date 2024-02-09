@@ -22,6 +22,21 @@ The backend handles translation logic using Django, while the frontend provides 
 - Django (install via `pip install django`)
 - Node.js and npm (for React)
 
+## Technical Skills
+
+- Programming Languages: Python, JavaScript
+- Frontend Frameworks/Libraries: React
+- Backend Framework: Django
+- API Technologies: Axios, RESTful API
+- Version Control: Git
+- Package Management: npm
+
+### Translator Application Development Details
+
+- Developed a translation application using Django (backend) and React (frontend).
+- Implemented RESTful API principles for seamless communication between the frontend and backend.
+- Utilized Axios for making asynchronous HTTP requests, improving the application's responsiveness.
+
 ## Usage
 
 Visit the application in your web browser and enter words or numbers from 0 to 100, and colors to see their translations.
