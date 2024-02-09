@@ -29,5 +29,5 @@ translator_dict = {
     "Emerald": "Esmeralda",
     "Amber": "Ámbar",
     "Ivory": "Marfil",
-    "Lavender": "Lavanda
+    "Lavender": "Lavanda",
 }
