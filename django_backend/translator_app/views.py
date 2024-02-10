@@ -9,7 +9,7 @@ def translate_word(request, word):
     translation = translator_dict.get(capitalized_word)
     if translation is not None:
         # Word found in the translator_dict
-        return JsonResponse({'translation': translation})
+        return JsonResponse({'translation': translation})   # Returning a JSON response containing the translation result
     else:
         # Word not found in translator_dict, check numbers_dict
         translation = numbers_dict.get(capitalized_word, f"No translation available, numbers are translated until 100")
