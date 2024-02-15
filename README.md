@@ -40,7 +40,3 @@ The backend handles translation logic using Django, while the frontend provides 
 ## Usage
 
 Visit the application in your web browser and enter words or numbers from 0 to 100, and colors to see their translations.
-
-## Acknowledgments
-
-- Thanks to the Django and React communities for their excellent documentation and support.
